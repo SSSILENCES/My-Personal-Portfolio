@@ -1,6 +1,6 @@
 ## My Personal Portfolio
 
-#User Story
+##User Story
 
 AS AN current software engineering student
 I WANT to create  portfolio  that contains my work samples
@@ -20,3 +20,4 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
+![image](https://user-images.githubusercontent.com/110136650/217152742-5cc52a9c-93ea-4fe8-93d1-4bfc6ef6c2d5.png)
